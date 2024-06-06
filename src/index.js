@@ -1,5 +1,5 @@
 /** GENERAL FEEDBACK:
- *
+ * Great job getting all test cases to pass!
  */
 
 const form = document.querySelector("#new-user-form");
